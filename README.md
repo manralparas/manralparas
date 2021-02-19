@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paras</h1>
-<h3 align="center">A passionate coder from India</h3>
+<h3 align="center">Currently Pursuing Btech CSE (3rd year)</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I love Web technologies and I am currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [github.com/manralparas](github.com/manralparas)
+- 👨‍I also love to solve DSA Problems mostly on GFG and Leetcode
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I know how to reverse a Linked List :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
